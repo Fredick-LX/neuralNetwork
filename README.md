@@ -5,3 +5,4 @@
 <p>主文件为neuralNetwork.py</p>
 <p>运行方法:用Python3打开neuralNetwork.py</p>
 <p>详细操作方式请看代码输出提示</p>
+<p>ps:记得解压mnist_train.rar文件</p>
